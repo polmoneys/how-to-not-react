@@ -1,7 +1,3 @@
+## TLDR
 
-Fix demo paths on docs
-
-```html
-
-        <script type="module" crossorigin src="/charts/assets/index.a54cf4fd.js"></script>
-```
+Raw typescript app template [demo](https://polmoneys.github.io/how-to-not-react/)
